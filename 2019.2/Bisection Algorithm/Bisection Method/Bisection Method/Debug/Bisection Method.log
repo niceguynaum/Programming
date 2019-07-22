@@ -1,0 +1,5 @@
+﻿  Bisection Method.cpp
+c:\users\naum\documents\programming\2019.2\bisection algorithm\bisection method\bisection method\bisection method.cpp(146): warning C4244: 'argument': conversion from 'long double' to 'std::streamsize', possible loss of data
+c:\users\naum\documents\programming\2019.2\bisection algorithm\bisection method\bisection method\bisection method.cpp(147): warning C4244: 'argument': conversion from 'long double' to 'std::streamsize', possible loss of data
+c:\users\naum\documents\programming\2019.2\bisection algorithm\bisection method\bisection method\bisection method.cpp(137): warning C4102: 'MathChoice': unreferenced label
+  Bisection Method.vcxproj -> C:\Users\NAUM\Documents\Programming\2019.2\Bisection Algorithm\Bisection Method\Debug\Bisection Method.exe

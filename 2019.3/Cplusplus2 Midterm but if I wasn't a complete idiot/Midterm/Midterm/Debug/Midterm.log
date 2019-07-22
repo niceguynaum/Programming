@@ -1,0 +1,144 @@
+﻿  Account.cpp
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C2039: 'vector': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C2143: syntax error: missing ';' before '<'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C2238: unexpected token(s) preceding ';'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(7): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(7): error C3646: 'accname': unknown override specifier
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(11): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(11): error C2061: syntax error: identifier 'string'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(11): error C2535: 'Account::Account(void)': member function already defined or declared
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(10): note: see declaration of 'Account::Account'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(5): error C2039: 'vector': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(5): error C2143: syntax error: missing ';' before '<'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(5): error C2238: unexpected token(s) preceding ';'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(6): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(6): error C3646: 'accfullname': unknown override specifier
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(7): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(7): error C3646: 'accpassword': unknown override specifier
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(8): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(8): error C3646: 'accaddresss': unknown override specifier
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(10): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(10): error C2061: syntax error: identifier 'string'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(10): error C2535: 'User::User(void)': member function already defined or declared
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(9): note: see declaration of 'User::User'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.cpp(17): error C2511: 'Account::Account(std::string,float)': overloaded member function not found in 'Account'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(2): note: see declaration of 'Account'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.cpp(18): error C2671: 'Account::{ctor}': static member functions do not have 'this' pointers
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.cpp(19): error C2671: 'Account::{ctor}': static member functions do not have 'this' pointers
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.cpp(36): error C2065: 'acchistory': undeclared identifier
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.cpp(38): error C2065: 'acchistory': undeclared identifier
+  Bank.cpp
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\bank.h(5): error C2039: 'vector': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\bank.h(5): error C2143: syntax error: missing ';' before '<'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\bank.h(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\bank.h(5): error C2238: unexpected token(s) preceding ';'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(5): error C2039: 'vector': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(5): error C2143: syntax error: missing ';' before '<'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(5): error C2238: unexpected token(s) preceding ';'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(6): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(6): error C3646: 'accfullname': unknown override specifier
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(7): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(7): error C3646: 'accpassword': unknown override specifier
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(8): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(8): error C3646: 'accaddresss': unknown override specifier
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(10): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(10): error C2061: syntax error: identifier 'string'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(10): error C2535: 'User::User(void)': member function already defined or declared
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(9): note: see declaration of 'User::User'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C2039: 'vector': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C2143: syntax error: missing ';' before '<'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C2238: unexpected token(s) preceding ';'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(7): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(7): error C3646: 'accname': unknown override specifier
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(11): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(11): error C2061: syntax error: identifier 'string'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(11): error C2535: 'Account::Account(void)': member function already defined or declared
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(10): note: see declaration of 'Account::Account'
+  Midterm.cpp
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\midterm.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\midterm.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\midterm.cpp(189): warning C4018: '<': signed/unsigned mismatch
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\midterm.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\midterm.cpp(281): error C3861: 'UserMenu': identifier not found
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\midterm.cpp(287): error C3861: 'UserMenu': identifier not found
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\midterm.cpp(310): error C3861: 'UserMenu': identifier not found
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\midterm.cpp(325): warning C4018: '<': signed/unsigned mismatch
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\midterm.cpp(340): error C3861: 'UserMenu': identifier not found
+  User.cpp
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(5): error C2039: 'vector': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(5): error C2143: syntax error: missing ';' before '<'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(5): error C2238: unexpected token(s) preceding ';'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(6): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(6): error C3646: 'accfullname': unknown override specifier
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(7): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(7): error C3646: 'accpassword': unknown override specifier
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(8): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(8): error C3646: 'accaddresss': unknown override specifier
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(10): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(10): error C2061: syntax error: identifier 'string'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(10): error C2535: 'User::User(void)': member function already defined or declared
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(9): note: see declaration of 'User::User'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C2039: 'vector': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C2143: syntax error: missing ';' before '<'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(6): error C2238: unexpected token(s) preceding ';'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(7): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(7): error C3646: 'accname': unknown override specifier
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(11): error C2039: 'string': is not a member of 'std'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(11): error C2061: syntax error: identifier 'string'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(11): error C2535: 'Account::Account(void)': member function already defined or declared
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\account.h(10): note: see declaration of 'Account::Account'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.cpp(13): error C2511: 'User::User(std::string,std::string,std::string)': overloaded member function not found in 'User'
+  c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.h(2): note: see declaration of 'User'
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.cpp(14): error C2671: 'User::{ctor}': static member functions do not have 'this' pointers
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.cpp(15): error C2671: 'User::{ctor}': static member functions do not have 'this' pointers
+c:\users\naum\documents\programming\2019.3\cplusplus2 midterm but if i wasn't an idiot\midterm\midterm\user.cpp(16): error C2671: 'User::{ctor}': static member functions do not have 'this' pointers
+  Generating Code...

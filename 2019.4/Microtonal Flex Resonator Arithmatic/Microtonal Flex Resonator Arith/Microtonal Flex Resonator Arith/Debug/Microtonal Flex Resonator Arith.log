@@ -1,0 +1,4 @@
+﻿  Microtonal Flex Resonator Arith.cpp
+c:\users\naum\documents\programming\2019.4\microtonal flex resonator arithmatic\microtonal flex resonator arith\microtonal flex resonator arith\microtonal flex resonator arith.cpp(73): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\naum\documents\programming\2019.4\microtonal flex resonator arithmatic\microtonal flex resonator arith\microtonal flex resonator arith\microtonal flex resonator arith.cpp(122): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Microtonal Flex Resonator Arith.vcxproj -> C:\Users\NAUM\Documents\Programming\2019.4\Microtonal Flex Resonator Arithmatic\Microtonal Flex Resonator Arith\Debug\Microtonal Flex Resonator Arith.exe

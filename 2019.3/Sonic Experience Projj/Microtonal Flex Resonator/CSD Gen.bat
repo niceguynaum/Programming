@@ -1,0 +1,1 @@
+MicroTonalResonatorGenerator < flexFile.txt > flexFile.csd

@@ -1,0 +1,44 @@
+----------------------------------------------------------------------------------------------
+FIRST DRAFT
+----------------------------------------------------------------------------------------------
+
+
+---Design Document---
+
+Build a model train within c++. Start Simply then add complexity through reiteration.
+
+Simple Goals to Start:
+
+1. Create a Train Loop to go from 3 destinations. Points a and b, then garage to refuel.
+2. Create a rudimentary passanger system
+3. Allow for expansion of train if passangers increase beyond a certain threshold.
+
+Inputs:
+
+- Total number of passangers added at each stop (added at random via rng)
+- Total number of passangers removed at each stop (removed at random via rng)
+	-> If Total Removed > Total Passangers, Total passangers = Total Removed.
+- Carts Added or Subtracted
+- Fuel (when needed)
+
+Outputs:
+
+- Number of passangers getting on train and off train
+- Location within train loop
+- Number of Carts on Train
+- Actions taken by train
+	-> Refueling
+	-> Adding Train cars
+	-> Removing Train cars
+
+
+:=: Advanced or Smoothing Design Criteria :=:
+
+1. Make Use of pointers to save space
+2. Save Outputs to train_log.txt
+3. Allow program to "save" and "continue"
+
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+

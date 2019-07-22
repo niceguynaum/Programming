@@ -1,0 +1,4 @@
+﻿  Runge Kutta Method.cpp
+c:\users\naum\documents\programming\2019.4\runge kutta method\runge kutta method\runge kutta method\runge kutta method.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\naum\documents\programming\2019.4\runge kutta method\runge kutta method\runge kutta method\runge kutta method.cpp(84): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Runge Kutta Method.vcxproj -> C:\Users\NAUM\Documents\Programming\2019.4\Runge Kutta Method\Runge Kutta Method\Debug\Runge Kutta Method.exe

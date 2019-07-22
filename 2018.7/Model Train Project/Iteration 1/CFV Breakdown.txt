@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------
+Classes, Functions, and Variable Breakdown IT1
+----------------------------------------------------------------------------------------------
+
+--- Dedicated Document Modeling Out the Program ---
+
+*** This file is dedicated towards breaking down each of the elements in the program
+*** and describing their purpose. This is a pre-programming document dedicated to
+*** keeping the code neat and organized by breaking down every aspect before any cooding
+*** actually happens.
+
+Classes
+
+	
+
+
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------

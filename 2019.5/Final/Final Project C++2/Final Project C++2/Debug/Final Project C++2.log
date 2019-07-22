@@ -1,0 +1,5 @@
+﻿  Final Project C++2.cpp
+c:\users\naum\documents\programming\2019.5\final\final project c++2\final project c++2\final project c++2.cpp(34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\naum\documents\programming\2019.5\final\final project c++2\final project c++2\final project c++2.cpp(36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\naum\documents\programming\2019.5\final\final project c++2\final project c++2\final project c++2.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  Final Project C++2.vcxproj -> C:\Users\NAUM\Documents\Programming\2019.5\Final\Final Project C++2\Debug\Final Project C++2.exe

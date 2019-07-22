@@ -1,0 +1,9 @@
+Program Goals and Objectives:
+
+1. Create a functioning train line with 3 stops.
+2. Trains consist of 3 cars: Front Car, Fuel Car, and Caboose.
+3. One Fuel car can hold 5 fuel. Each stop has a different distance = different amount of fuel burned.
+4. Perpetually running program parameters:
+	a. New influx of people at every stop (1-10 people)
+	b. Ticket system
+	c. Some type of clock

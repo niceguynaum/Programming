@@ -1,0 +1,4 @@
+﻿  TickTackToe.cpp
+c:\users\naum\desktop\ticktacktoe\ticktacktoe\ticktacktoe.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  TickTackToe.vcxproj -> C:\Users\NAUM\Desktop\TickTackToe\Debug\TickTackToe.exe
+  TickTackToe.vcxproj -> C:\Users\NAUM\Desktop\TickTackToe\Debug\TickTackToe.pdb (Partial PDB)

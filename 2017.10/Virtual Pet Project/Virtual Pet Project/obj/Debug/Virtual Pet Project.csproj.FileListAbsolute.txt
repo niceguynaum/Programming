@@ -1,0 +1,7 @@
+C:\Users\NAUM\source\repos\Virtual Pet Project\Virtual Pet Project\bin\Debug\Virtual Pet Project.exe.config
+C:\Users\NAUM\source\repos\Virtual Pet Project\Virtual Pet Project\bin\Debug\Virtual Pet Project.exe
+C:\Users\NAUM\source\repos\Virtual Pet Project\Virtual Pet Project\bin\Debug\Virtual Pet Project.pdb
+C:\Users\NAUM\source\repos\Virtual Pet Project\Virtual Pet Project\obj\Debug\Virtual Pet Project.csprojResolveAssemblyReference.cache
+C:\Users\NAUM\source\repos\Virtual Pet Project\Virtual Pet Project\obj\Debug\Virtual Pet Project.csproj.CoreCompileInputs.cache
+C:\Users\NAUM\source\repos\Virtual Pet Project\Virtual Pet Project\obj\Debug\Virtual Pet Project.exe
+C:\Users\NAUM\source\repos\Virtual Pet Project\Virtual Pet Project\obj\Debug\Virtual Pet Project.pdb

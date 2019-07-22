@@ -1,0 +1,7 @@
+C:\Users\NAUM\Documents\Programming\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe.config
+C:\Users\NAUM\Documents\Programming\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe
+C:\Users\NAUM\Documents\Programming\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.pdb
+C:\Users\NAUM\Documents\Programming\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.csprojResolveAssemblyReference.cache
+C:\Users\NAUM\Documents\Programming\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.csproj.CoreCompileInputs.cache
+C:\Users\NAUM\Documents\Programming\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.exe
+C:\Users\NAUM\Documents\Programming\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.pdb

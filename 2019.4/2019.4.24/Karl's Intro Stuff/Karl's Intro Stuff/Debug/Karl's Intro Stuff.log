@@ -1,0 +1,9 @@
+﻿  Karl's Intro Stuff.cpp
+c:\users\naum\documents\programming\2019.4\2019.4.24\karl's intro stuff\karl's intro stuff\karl's intro stuff.cpp(64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\naum\documents\programming\2019.4\2019.4.24\karl's intro stuff\karl's intro stuff\karl's intro stuff.cpp(91): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\naum\documents\programming\2019.4\2019.4.24\karl's intro stuff\karl's intro stuff\karl's intro stuff.cpp(108): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\naum\documents\programming\2019.4\2019.4.24\karl's intro stuff\karl's intro stuff\karl's intro stuff.cpp(109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\naum\documents\programming\2019.4\2019.4.24\karl's intro stuff\karl's intro stuff\karl's intro stuff.cpp(119): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\naum\documents\programming\2019.4\2019.4.24\karl's intro stuff\karl's intro stuff\karl's intro stuff.cpp(120): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\naum\documents\programming\2019.4\2019.4.24\karl's intro stuff\karl's intro stuff\karl's intro stuff.cpp(130): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Karl's Intro Stuff.vcxproj -> C:\Users\NAUM\Documents\Programming\2019.4\2019.4.24\Karl's Intro Stuff\Debug\Karl's Intro Stuff.exe

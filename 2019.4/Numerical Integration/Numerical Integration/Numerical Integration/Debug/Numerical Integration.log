@@ -1,0 +1,4 @@
+﻿  Numerical Integration.cpp
+c:\users\naum\documents\programming\2019.4\numerical integration\numerical integration\numerical integration\numerical integration.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\naum\documents\programming\2019.4\numerical integration\numerical integration\numerical integration\numerical integration.cpp(60): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Numerical Integration.vcxproj -> C:\Users\NAUM\Documents\Programming\2019.4\Numerical Integration\Numerical Integration\Debug\Numerical Integration.exe
